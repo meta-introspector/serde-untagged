@@ -11,4 +11,4 @@ path = "test.rs"
 [dependencies]
 serde-untagged = { path = "../.." }
 
-[workspace]
+#[workspace]
